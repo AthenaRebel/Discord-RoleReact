@@ -1,10 +1,10 @@
 //Settings!
-const yourID = ""; //Instructions on how to get this: https://redd.it/40zgse
+const yourID = "677621755703197696"; //Instructions on how to get this: https://redd.it/40zgse
 const setupCMD = "!createroleressage"
 let initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction!**`;
-const roles = ["Hacker", "Artist", "Public Relations", "Intern"];
-const reactions = ["💻", "🖌", "😃", "🆕"];
-const botToken = ""; /*You'll have to set this yourself; read more
+const roles = ["Bot Updates", "Server Updates", "Twitch Ping", "Giveaway Ping"];
+const reactions = ["🤖", "⚙️", "📢", "🎉"];
+const botToken = "ODY5MzI1NTE5NzE4NTk2NjI5.YP8kew.G-9sWdqC5O1_ypRuffCCIV-Ko_4"; /*You'll have to set this yourself; read more
                      here https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token*/
 
 
