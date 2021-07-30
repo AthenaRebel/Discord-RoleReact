@@ -1,6 +1,6 @@
 //Settings!
 const yourID = "677621755703197696"; //Instructions on how to get this: https://redd.it/40zgse
-const setupCMD = "!createroleressage"
+const setupCMD = "s!crm"
 let initialMessage = `**React to the messages below to receive the associated role. If you would like to remove the role, simply remove your reaction!**`;
 const roles = ["Bot Updates", "Server Updates", "Twitch Ping", "Giveaway Ping"];
 const reactions = ["🤖", "⚙️", "📢", "🎉"];
